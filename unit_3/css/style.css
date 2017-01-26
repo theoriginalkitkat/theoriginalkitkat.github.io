@@ -1,0 +1,17 @@
+
+body {
+  text-align: center;
+  background: url("images/1.jpg");
+  background-size: cover;
+  color: #fff;
+  font-family: Helvetica;
+}
+
+hr{
+  width: 200px;
+}
+
+p{
+ 
+  font-size: 22px;
+}
