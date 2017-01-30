@@ -5,7 +5,7 @@ body {
   background-size: cover;*/
   color: #000;
   font-family: Helvetica;
-  background-image: url(one.jpg);
+  background-image: url(../images/one.jpg);
   background-repeat: no-repeat;
   background-position: center top;
   background-attachment: fixed;
