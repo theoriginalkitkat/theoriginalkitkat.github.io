@@ -1,0 +1,90 @@
+
+body {
+  text-align: center;
+  background-size: cover;
+  color: #fff;
+  background-color: #000;
+  font-family: Helvetica;
+  /*background-image: url(../images/img3.jpg);*/
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-attachment: fixed;
+}
+
+
+hr{
+  width: 200px;
+  color: #bcbcbc;
+}
+
+p{
+  font-family: serif;
+  font-size: 16px;
+}
+
+/* ------------>>>>>>>>>>>>>>theses are the boxes<<<<<<<<<<<------------*/
+
+div {
+  width: 150px;
+  height: 150px;
+  border: 2px solid black;
+  display: inline-block;
+  margin: 20px;
+}
+
+.yes {  width: 15%;  height: auto; } 
+
+
+
+#name {
+  width: 150px;
+  height: 150px;
+  border: 2px solid black;
+  display: inline-block;
+  margin: 20px;
+  background-image: url(../images/img1.jpg);
+  background-repeat: no-repeat;
+  background-position: center top;
+  background: rgba(0,0,0,.2);
+}
+
+#name img {
+   width: 10%;
+ }
+
+#hex {
+  width: 150px;
+  height: 150px;
+  border: 2px solid black;
+  display: inline-block;
+  margin: 20px;
+  background-image: url(../images/img2.jpg);
+  background-repeat: no-repeat;
+  background-position: center top;
+  background: rgba(0,0,0,.2);
+}
+
+#hex img {
+   width: 10%;
+ }
+
+#rgb {
+  width: 150px;
+  height: 150px;
+  border: 2px solid black;
+  display: inline-block;
+  margin: 20px;
+  background-image: url(../images/img3.jpg);
+  background-repeat: no-repeat;
+  background-position: center top;
+  background: rgba(0,0,0,.2);
+}
+
+#rgb img {
+   width: 10%;
+ }
+
+/*.....*/
+
+
+/* ------------>>>>>>>>>>>>>>theses are the boxes<<<<<<<<<<<------------*/
