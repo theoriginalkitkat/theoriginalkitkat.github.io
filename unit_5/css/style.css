@@ -1,0 +1,83 @@
+
+body {
+  text-align: center;
+  /*background-image: url("one.jpg");
+  background-size: cover;*/
+  color: #000;
+  font-family: Helvetica;
+  background-image: url(../images/one.jpg);
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-attachment: fixed;
+}
+
+hr{
+  width: 200px;
+}
+
+h1 {
+  font-family: georgia, serif;
+    font-size: 40px;
+  line-height: 1.5em;
+  margin: 1em;
+}
+
+h2 {
+  font-family: georgia, serif;
+    font-size: 32px;
+  line-height: 1.5em;
+  margin: 1em;
+}
+
+p {
+  font-family: verdana, Sans-Serif;
+    font-size: 18px;
+  line-height: 1.5em;
+  margin: 1.5em;
+}
+strong {
+  font-variant: small-caps;
+}
+
+#nav1 {
+  background: #555;
+    margin: 4em;
+    padding: .5em .05em .5em .05em;
+  }
+
+#do {
+  background: #FFF;
+    margin: 4em;
+    padding: 2em 3em 2em 3em;
+}
+
+#reach {
+  background: #555;
+    margin: 4em;
+    padding: 2em 3em 2em 3em;
+}
+
+#are {
+  background: #757575;
+    margin: 4em;
+    padding: 2em 3em 2em 3em;
+  }
+
+
+#contact {
+  background: #FFF;
+    margin: 4em;
+    padding: 2em 3em 2em 3em;
+}
+
+.right {
+  text-align: right;
+}
+
+span {
+  font-variant: small-caps;
+  font-family: georgia, sans-serif;
+  letter-spacing:.025em;
+  padding: 0 .2em;
+  background: rgba(100,150,150,.5);
+
